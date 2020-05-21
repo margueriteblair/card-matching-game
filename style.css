@@ -1,0 +1,8 @@
+.grid {
+   display: flex; 
+   flex-wrap: wrap;
+   height: 300px; 
+   width: 400px; 
+}
+
+/* 300x400 because we will have 12 100px by 100px cards */
